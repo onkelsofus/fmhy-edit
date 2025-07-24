@@ -464,15 +464,14 @@
 * 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art & Animation Resource Index
 * ⭐ **[Unreal Engine](https://www.unrealengine.com/)**, [MoonRay](https://openmoonray.org/), [cgsoftbox](https://t.me/cgsoftbox), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
 * ⭐ **[Immersity AI](https://www.immersity.ai/)** - 2D Image to 3D Animation Tool
-* [OpenToonz](https://opentoonz.github.io/e/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - Animation Tools
+* [OpenToonz](https://opentoonz.github.io/e/)/[Tahoma2D](https://tahoma2d.org/), [Synfig](https://www.synfig.org/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/), [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects), [enve](https://maurycyliebner.github.io/), [Cavalry](https://cavalry.scenegroup.co/), [TupiTube](https://tupitube.com/) - 2D Animation Tools
 * [Animaker](https://www.animaker.com/) - Animated Video Creator
 * [3DThis](https://3dthis.com/) - 3D Animation Tools
 * [Mega Scans](https://quixel.com/megascans) - 3D Scans
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
 * [cgplugdump](https://t.me/cgplugdump) - CG Software Plugins
-* [Physically Based](https://physicallybased.info/) - RGB Values of Elements
-* [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects), [enve](https://maurycyliebner.github.io/), [Cavalry](https://cavalry.scenegroup.co/), [TupiTube](https://tupitube.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tools
+* [Physically Based](https://physicallybased.info/) - RGB Values of Elements 
 * [ScribbleDiffusion](https://scribblediffusion.com/) - Turn Doodles into Artwork
 * [MonsterMash](https://monstermash.zone/) - Sketch-Based Modeling & Animation Tool
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder)
